@@ -1,18 +1,12 @@
 # SwiftUIStudy
 
 
-정리는 나중에 우선 링크 모아두기
+링크줍줍 🙇‍♀️
 
 <br>
 
+[(Drawing and Animation) Animating Views and Transitions](https://developer.apple.com/tutorials/swiftui/animating-views-and-transitions)
 
-animation 
+[SwiftUI Handbook](https://designcode.io/tutorials) - 유료
 
-https://developer.apple.com/tutorials/swiftui/animating-views-and-transitions
-
-
-
-
-이거 보기
-
-https://designcode.io/tutorials
+[Hohyeon Moon 블로그](https://www.hohyeonmoon.com/)
